@@ -1,6 +1,6 @@
 {
     "name": "super/man",
-    "description": "A short description of what your package does...",
+    "description": "bla bla bla.",
     "license": "MIT",
     "require": {
         "php": "^5.3.3 || ^7.0"
