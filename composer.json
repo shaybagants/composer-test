@@ -1,6 +1,6 @@
 {
     "name": "super/man",
-    "description": "this is a test master branch.",
+    "description": "this is a test master branch.....",
     "license": "MIT",
     "require": {
         "php": "^5.3.3 || ^7.0"
