@@ -3,7 +3,7 @@
     "description": "this is a test master branch.",
     "license": "MIT",
     "require": {
-        "php": "^5.3.3 || ^7.0",
+        "php": "^5.3.3 || ^7.0"
     },
     "authors": [
         {
