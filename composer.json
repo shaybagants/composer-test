@@ -1,6 +1,6 @@
 {
     "name": "super/man",
-    "description": "commit 123456.....",
+    "description": "commit 1234567.....",
     "license": "MIT",
     "require": {
         "php": "^5.3.3 || ^7.0"
